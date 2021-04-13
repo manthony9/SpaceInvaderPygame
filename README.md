@@ -25,7 +25,7 @@ A special thank you to freecodecamp.org for being a valuable resource for the se
 Reference: https://www.youtube.com/watch?v=FfWpgLFMI7w&t=42s&ab_channel=freeCodeCamp.org
 Icons: flaticon.com
 Background Image: https://www.freepik.com/
-![SpaceInvader]
 
 
-(https://user-images.githubusercontent.com/13238071/114499562-5bd5dd00-9bf4-11eb-93fc-d72fafd101b5.PNG)
+![SpaceInvader](https://user-images.githubusercontent.com/13238071/114499650-858f0400-9bf4-11eb-8e36-464eb706c664.PNG)
+
