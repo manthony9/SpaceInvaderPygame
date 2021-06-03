@@ -1,9 +1,8 @@
 # SpaceInvaderPygame
 
-A simple space invader game made with pygame. 
+## A simple space invader game made with pygame. 
 
-Learnings:
-
+### :pushpin: Learnings:
 - Usage of python fundamentals for assigning and looping through variables.
 - Pygame and its associated functions
 - Setting screens, pictures and logic for object movement
@@ -15,7 +14,7 @@ Learnings:
 
 Overall it was a great beginner project and super fun.
 
-Work in Progress:
+### :pushpin: What to add:
 - Game Menu
 - Animation for collision
 - Different objects 
